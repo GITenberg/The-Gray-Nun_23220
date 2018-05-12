@@ -1,0 +1,35 @@
+_repo: The-Gray-Nun_23220
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Strachey, Lionel
+    birthdate: 1864
+    deathdate: 1927
+    gutenberg_agent_id: '25759'
+    url: http://www.gutenberg.org/2009/agents/25759
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Eschstruth, Nataly von
+    alias: Von Eschstruth, Nataly
+    birthdate: 1860
+    deathdate: 1939
+    gutenberg_agent_id: '25760'
+    url: http://www.gutenberg.org/2009/agents/25760
+description: ''
+gutenberg_issued: '2007-10-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23220'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ghost stories'
+- !lcsh 'Short stories'
+- !lcc 'PT'
+title: The Gray Nun
+url: http://www.gutenberg.org/ebooks/23220
